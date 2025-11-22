@@ -1,3 +1,4 @@
+/*
 1. Em que ano o banco de dados  foi desenvolvido?
 R: 1970 a 1972
 
@@ -15,3 +16,4 @@ R: Nivel externo, Nivel Conceitual e  Nivel interno.
 
 6. Liste as vantagens de usar um banco de dados.
 R: Organização, Segurança e Integridade.
+*/
